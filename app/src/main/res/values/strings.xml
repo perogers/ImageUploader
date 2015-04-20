@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Image Uploader</string>
+    <string name="upload_url_text">Upload URL and Path</string>
+    <string name="upload_file_text">Upload File and Path</string>
+    <string name="upload_button_label">Upload</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bad_url_message">Invalid URL Entered!</string>
+    <string name="bad_file_message">Invalid File Name Entered!</string>
+    <string name="file_not_found_message">File not Found!</string>
+    <string name="file_upload_started">File Upload Begun</string>
+    <string name="file_upload_completed">File Upload Completed</string>
+    <string name="file_upload_failed">Upload Failed</string>
+</resources>
